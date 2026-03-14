@@ -193,12 +193,12 @@ Ejemplo:
 # Documento de planificación
 
 ## Perfil de la audiencia
-
+# Hola, como estas (solo de prueba)
 Describir el público objetivo.
 
 Ejemplo:
 
-- Estudiantes universitarios
+- Estudiantes universitarios    
 - Con conocimientos básicos de tecnología
 
 ---
