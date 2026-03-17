@@ -187,7 +187,7 @@ Ejemplo:
 2. Aplicaciones actuales
 3. Beneficios y riesgos
 4. Casos de uso reales
-
+ 
 ---
 
 # Documento de planificación
