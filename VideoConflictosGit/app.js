@@ -1,11 +1,10 @@
 function mostrarTareas(tareas) {
-    console.log("Lista de tareas");
+  console.log("=== LISTA DE TAREAS PENDIENTES ===");
 
-tareas.forEach((tarea) => {
-    console.log("- " + tarea);
-    });
+  tareas.forEach((tarea, index) => {
+    console.log(`${index + 1}. ${tarea}`);
+  });
 }
 
-// esto es un comentario: 
 const tareas = ["Estudiar Git", "Hacer commits", "Aprender ramas"];
 mostrarTareas(tareas);
