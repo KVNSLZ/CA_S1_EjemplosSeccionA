@@ -1,0 +1,5 @@
+Hola a todos. 
+
+cuando esta en verde, es porque es un nuevo archivo 
+y cuando esta naranja, es proque ya se habia hecho un commit al remoto, y se esta actualizando verdad. 
+
